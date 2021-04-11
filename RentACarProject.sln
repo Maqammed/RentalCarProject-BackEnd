@@ -16,9 +16,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WepAPI", "WepAPI\WepAPI.csproj", "{EC9052AF-03C7-4456-9447-9DF729F2EE8F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub", "GitHub", "{76EC99B5-9075-4002-9EEC-A972A23A9B21}"
-	ProjectSection(SolutionItems) = preProject
-		CarRentalDatabase.sql = CarRentalDatabase.sql
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
